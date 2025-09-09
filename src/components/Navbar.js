@@ -2,7 +2,7 @@ import * as React from "react";
 import {NavLink} from 'react-router-dom';
 
 export const Navbar = () => {
-	const header = { logo : './tommy.JFIF',name : 'TOMMY'}
+	const header = { logo : 'tommy.jfif',name : 'TOMMY'}
 	return(
 		<header className="row header">
 			<nav className= "col- col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 menuli">
