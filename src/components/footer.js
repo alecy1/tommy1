@@ -44,7 +44,6 @@ function DespliegaFooter(){
           <li className="menu-li titulo">Contactame</li>
           <li className="menu-li"><FontAwesomeIcon icon={faPhone}/> 44-48 836 294</li>
           <li className="menu-li"><FontAwesomeIcon icon={faEnvelope}/> mascotas@tommy.com</li>
-          <li className="menu-li">Github: https://github.com/alecy1</li>
           <li className="menu-li">Horario telefónico: Lun a Vie 9:00h a 18:00h</li>
         </ul>
       </div>
